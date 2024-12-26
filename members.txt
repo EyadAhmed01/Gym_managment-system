@@ -1,0 +1,5 @@
+123456,belal,normal,be@,1234567,active
+M001,John,Monthly,john@gmail.com,0123456789,active
+M004,mem4,Monthly,mem4@example.com,044,Active
+M002,member2,Monthly,mem2@example.com,0222,Active
+M003,member3,Monthly,mem3@example.com,0333,Active
